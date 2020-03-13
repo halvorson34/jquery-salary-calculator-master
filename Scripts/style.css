@@ -1,0 +1,26 @@
+header {
+  background-color: grey;
+}
+h2 {
+  background-color: grey;
+}
+.btnDelete {
+}
+
+.wireframe {
+  border: 5px solid black;
+}
+
+.employeeTable {
+  width: 100%;
+  border-collapse: collapse;
+  border: 5px solid black;
+}
+
+td {
+  border: 1px solid black;
+}
+
+.alnCenter {
+  text-align: center;
+}
