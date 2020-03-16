@@ -1,10 +1,13 @@
-header {
-  background-color: grey;
-}
 h2 {
   background-color: grey;
+  color: white;
+  margin: 0;
+  padding: 20px;
+  text-align: center;
 }
-.btnDelete {
+
+.btnSubmit {
+  text-align: right;
 }
 
 .wireframe {
@@ -12,15 +15,32 @@ h2 {
 }
 
 .employeeTable {
-  width: 100%;
+  width: 90%;
+  margin: 0 auto;
   border-collapse: collapse;
-  border: 5px solid black;
+}
+
+.header {
+  background-color: darkgrey;
+}
+
+.midRow {
+  background-color: lightgrey;
 }
 
 td {
-  border: 1px solid black;
+  border: solid black;
+  height: 25px;
+}
+
+.footer {
+  background-color: lightgrey;
 }
 
 .alnCenter {
   text-align: center;
+}
+
+.monthlyTotal {
+  text-align: right;
 }
